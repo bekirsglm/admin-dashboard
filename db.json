@@ -1,0 +1,342 @@
+{
+  "products": [
+    {
+      "name": "Samsung Galaxy S25+",
+      "brand": "Samsung",
+      "price": 8499.98,
+      "stock": 30,
+      "rating": 3.6,
+      "reviews_count": 85,
+      "category": "Electronics",
+      "image_url": "https://images.samsung.com/tr/smartphones/galaxy-s25/buy/product_color_navy_plus_PC.png",
+      "description": "6.6-inch display, Snapdragon 8 Gen 2, triple 50MP camera system.",
+      "id": "2"
+    },
+    {
+      "name": "Sony WH-1000XM5 Headphones emerhaba",
+      "brand": "Sony",
+      "price": 749.99,
+      "stock": 40,
+      "rating": 2.9,
+      "reviews_count": 120,
+      "category": "Accessories",
+      "image_url": "https://picsum.photos/seed/3/500/500",
+      "description": "Industry-leading noise cancellation, 30 hours battery life.",
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "name": "Adidas Air Max 270",
+      "category": "Shoes",
+      "price": 249.99,
+      "stock": 53,
+      "description": "Breathable mesh upper, Max Air unit for responsive cushioning.",
+      "image_url": "https://picsum.photos/seed/4/500/500",
+      "rating": 1.7,
+      "reviews_count": 210,
+      "brand": "Adidas"
+    },
+    {
+      "id": "5",
+      "name": "Adidas Ultraboost 22",
+      "category": "Shoes",
+      "price": 180,
+      "stock": 35,
+      "description": "Primeknit upper with Boost midsole for maximum energy return.",
+      "image_url": "https://picsum.photos/seed/5/500/500",
+      "rating": 4.8,
+      "reviews_count": 95,
+      "brand": "Adidas"
+    },
+    {
+      "name": "Dyson V11 Vacuum Cleaner ",
+      "brand": "Dyson",
+      "price": 599.99,
+      "stock": 15,
+      "rating": 4.9,
+      "reviews_count": 45,
+      "category": "Home",
+      "image_url": "https://picsum.photos/seed/6/500/500",
+      "description": "Powerful suction, LCD screen, up to 60 minutes of run time.",
+      "id": "6"
+    },
+    {
+      "id": "7",
+      "name": "LG 65-Inch 6K Smart TV",
+      "category": "Electronics",
+      "price": 999.98,
+      "stock": 20,
+      "description": "65-inch OLED display, webOS, Dolby Atmos sound.",
+      "image_url": "https://picsum.photos/seed/7/500/500",
+      "rating": 4.7,
+      "reviews_count": 75,
+      "brand": "LG"
+    },
+    {
+      "name": "Macbook M3",
+      "brand": "Apple",
+      "price": 12300,
+      "stock": 15,
+      "rating": 4.1,
+      "reviews_count": 67,
+      "category": "Electronics",
+      "image_url": "https://m.media-amazon.com/images/I/719C6bJv8jL.jpg",
+      "description": "The apple m4 is the new...",
+      "id": "43ae"
+    },
+    {
+      "id": "2a68",
+      "name": "Mont",
+      "brand": "Piere Cardin",
+      "category": "Clothing",
+      "price": 7000,
+      "stock": 16,
+      "description": "bu mont.....",
+      "image_url": "https://aydinli-pc.a-cdn.akinoncloud.com/products/2024/10/24/1082422/279c0af3-2f2e-41d9-8640-beb56d3eb1bc_size2724x3540_quality100_cropCenter.jpg",
+      "rating": 4.5,
+      "reviews_count": 11
+    },
+    {
+      "id": "fdba",
+      "name": "Airpods Pro 2",
+      "brand": "Apple",
+      "category": "Electronics",
+      "price": 8000,
+      "stock": 26,
+      "description": "2 kata kadar daha fazla Aktif Gürültü Engelleme.1 Gürültü denetimini bulunduğunuz ortama göre ayarlayan Adaptif Ses.2 Sizi çevreleyen büyüleyici bir deneyim için Kişiselleştirilmiş Uzamsal Ses. Ve yüksek seslere maruz kalma derecenizi en aza indirgemenin akıllı yolları.",
+      "image_url": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/airpods-pro-2-hero-select-202409_FV1_FMT_WHH?wid=752&hei=636&fmt=jpeg&qlt=90&.v=1725492498882",
+      "rating": 4.5,
+      "reviews_count": 40
+    },
+    {
+      "name": "Rolex Sybmariner",
+      "brand": "Rolex",
+      "price": 568000,
+      "stock": 4,
+      "rating": 5,
+      "reviews_count": 3,
+      "category": "Clothing",
+      "image_url": "https://media.rolex.com/image/upload/q_auto:eco/f_auto/t_v7-majesty/c_limit,w_1920/v1/catalogue/2025/upright-c/m126613ln-0002.jpg",
+      "description": "Rolex Submariner'ın ikinci el fiyatları 6.500 Euro'nun biraz altından başlayarak 100.000 Euro'nun üstüne kadar çıkmaktadır. Modellerin fiyatları, model..",
+      "id": "0fdb12312"
+    },
+    {
+      "id": "382e",
+      "name": "watch",
+      "brand": "rolex",
+      "price": 500000,
+      "stock": 20,
+      "rating": 5,
+      "reviews_count": 15,
+      "category": "Accessories",
+      "image_url": "data:image/jpeg;base64,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",
+      "description": "rolex"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Ahmet Yılmaz",
+      "email": "ahmet.yilmaz@example.com",
+      "password": "hashed_password_1",
+      "address": {
+        "street": "Atatürk Cad. No: 15",
+        "city": "Istanbul",
+        "postal_code": "34000",
+        "country": "Turkey"
+      },
+      "phone": "+90 555 123 4567",
+      "orders": [
+        {
+          "order_id": 1001,
+          "product_id": 1,
+          "quantity": 1,
+          "total_price": 1299.99,
+          "order_date": "2024-09-10"
+        },
+        {
+          "order_id": 1002,
+          "product_id": 4,
+          "quantity": 2,
+          "total_price": 299.98,
+          "order_date": "2024-08-15"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Elif Kaya",
+      "email": "elif.kaya@example.com",
+      "password": "hashed_password_2",
+      "address": {
+        "street": "İstiklal Mah. 123. Sok. No: 45",
+        "city": "Ankara",
+        "postal_code": "06000",
+        "country": "Turkey"
+      },
+      "phone": "+90 532 654 3210",
+      "orders": [
+        {
+          "order_id": 1003,
+          "product_id": 3,
+          "quantity": 1,
+          "total_price": 349.99,
+          "order_date": "2024-07-22"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Mehmet Demir",
+      "email": "mehmet.demir@example.com",
+      "password": "hashed_password_3",
+      "address": {
+        "street": "Mimar Sinan Bulv. No: 78",
+        "city": "Izmir",
+        "postal_code": "35000",
+        "country": "Turkey"
+      },
+      "phone": "+90 542 987 6543",
+      "orders": []
+    },
+    {
+      "id": "4",
+      "name": "Zeynep Aksoy",
+      "email": "zeynep.aksoy@example.com",
+      "password": "hashed_password_4",
+      "address": {
+        "street": "Bahçelievler Mah. Gül Sok. No: 12",
+        "city": "İzmir",
+        "postal_code": "35400",
+        "country": "Turkey"
+      },
+      "phone": "+90 535 789 1234",
+      "orders": [
+        {
+          "order_id": 1005,
+          "product_id": 2,
+          "quantity": 1,
+          "total_price": 999.99,
+          "order_date": "2024-09-05"
+        },
+        {
+          "order_id": 1006,
+          "product_id": 6,
+          "quantity": 1,
+          "total_price": 599.99,
+          "order_date": "2024-10-12"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Burak Yılmaz",
+      "email": "burak.yilmaz@example.com",
+      "password": "hashed_password_5",
+      "address": {
+        "street": "Cumhuriyet Cad. 56/3",
+        "city": "Bursa",
+        "postal_code": "16100",
+        "country": "Turkey"
+      },
+      "phone": "+90 544 321 8765",
+      "orders": []
+    }
+  ],
+  "orders": [
+    {
+      "order_id": 1001,
+      "user_id": 1,
+      "order_date": "2024-09-10",
+      "status": "Teslim Edildi",
+      "total_price": 1299.99,
+      "shipping_address": {
+        "street": "Atatürk Cad. No: 15",
+        "city": "Istanbul",
+        "postal_code": "34000",
+        "country": "Turkey"
+      },
+      "items": [
+        {
+          "product_id": 1,
+          "name": "Apple iPhone 14",
+          "quantity": 1,
+          "price": 1299.99
+        }
+      ],
+      "id": "2640"
+    },
+    {
+      "order_id": 1002,
+      "user_id": 1,
+      "order_date": "2024-09-15",
+      "status": "Teslim Edildi",
+      "total_price": 299.98,
+      "shipping_address": {
+        "street": "Atatürk Cad. No: 15",
+        "city": "Istanbul",
+        "postal_code": "34000",
+        "country": "Turkey"
+      },
+      "items": [
+        {
+          "product_id": 4,
+          "name": "Nike Air Max 270",
+          "quantity": 2,
+          "price": 149.99
+        }
+      ],
+      "id": "e9d8"
+    },
+    {
+      "order_id": 1003,
+      "user_id": 2,
+      "order_date": "2024-09-22",
+      "status": "Kargoya Verildi",
+      "total_price": 349.99,
+      "shipping_address": {
+        "street": "İstiklal Mah. 123. Sok. No: 45",
+        "city": "Ankara",
+        "postal_code": "06000",
+        "country": "Turkey"
+      },
+      "items": [
+        {
+          "product_id": 3,
+          "name": "Sony WH-1000XM5 Headphones",
+          "quantity": 1,
+          "price": 349.99
+        },
+        {
+          "product_id": 5,
+          "name": "Adidas Ultraboost 22",
+          "quantity": 3,
+          "price": 180
+        }
+      ],
+      "id": "a863"
+    },
+    {
+      "order_id": 1004,
+      "user_id": 4,
+      "order_date": "2024-10-01",
+      "status": "Hazırlanıyor",
+      "total_price": 180,
+      "shipping_address": {
+        "street": "Kordonboyu Mah. Sahil Yolu Cad. No: 22",
+        "city": "Antalya",
+        "postal_code": "07000",
+        "country": "Turkey"
+      },
+      "items": [
+        {
+          "product_id": 5,
+          "name": "Adidas Ultraboost 22",
+          "quantity": 1,
+          "price": 180
+        }
+      ],
+      "id": "c3a7"
+    }
+  ]
+}
